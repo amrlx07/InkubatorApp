@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InkubatorApp</string>
+    <string name="login_welcome">Selamat Datang di Aplikasi Inkubator</string>
+    <string name="login_detail">Silahkan Masuk/Login dengan Akun Google anda dengan Menekan tombol di bawah</string>
+    <string name="login_button">Masuk dengan Google akun</string>
+    <string name="welcome_monitor">Selamat Datang</string>
+    <string name="incubator_condision">Kondisi Inkubator</string>
+    <string name="monitoring">Monitoring</string>
+    <string name="humidity">Kelembaban</string>
+    <string name="temperature">Suhu</string>
+    <string name="Control_incubator">Kontrol Inkubator</string>
+    <string name="caution">Perhatian</string>
+    <string name="caution_details">Untuk mematikan atau menghidupkan Kipas, Heater dan Motor tekan pada Switch.</string>
+    <string name="fan_title">Kipas</string>
+    <string name="fan_details">Kipas digunakan mengatur persebaran udara yang masuk dan udara yang keluar</string>
+    <string name="heater_title">Heater</string>
+    <string name="heater_details">"Heater digunakan sebagai pemanas didalam Inkubator agar tetep hangat "</string>
+    <string name="motor_details">Motor digunalkan untuk memberikan gerakan terhadap telur agar panas dari heater dapat tersebar ke seluruh telur</string>
+    <string name="motor_title">Motor</string>
+    <string name="web_client_id">435442399973-tdqsn8aequsgolj3c4v9uk2abs3ebjv9.apps.googleusercontent.com</string>
+    <string name="out_account">Keluar</string>
+</resources>

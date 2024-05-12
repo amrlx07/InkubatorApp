@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435442399973",
+    "firebase_url": "https://inkubator-dashboard-database-default-rtdb.firebaseio.com",
+    "project_id": "inkubator-dashboard-database",
+    "storage_bucket": "inkubator-dashboard-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435442399973:android:8f5a2a04542831145f720c",
+        "android_client_info": {
+          "package_name": "com.wmktefaternak.inkubatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435442399973-tdqsn8aequsgolj3c4v9uk2abs3ebjv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmOHlZBN6Ln-69ICNMkdR7ZVQ2iBcoaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435442399973-tdqsn8aequsgolj3c4v9uk2abs3ebjv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
